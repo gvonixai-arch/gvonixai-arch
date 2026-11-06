@@ -30,5 +30,7 @@
 
 ### Let's Connect
 - 🐦 X / Twitter: [@Your]
+
 - 💼 LinkedIn: [Your ]
 - ✉️ Email: [your@email.com]
+---
